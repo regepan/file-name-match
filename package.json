@@ -4,7 +4,7 @@
   "description": "",
   "main": "cli.js",
   "bin": {
-    "file-name-match": "file-name-match.js"
+    "file-name-match": "bin/file-name-match.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
