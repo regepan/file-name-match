@@ -1,0 +1,26 @@
+{
+  "name": "file-name-match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "bin": {
+    "file-name-match": "file-name-match.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regepan/file-name-match.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regepan/file-name-match/issues"
+  },
+  "homepage": "https://github.com/regepan/file-name-match#readme",
+  "dependencies": {
+    "log-symbols": "^2.0.0",
+    "staged-git-files": "0.0.4"
+  }
+}
