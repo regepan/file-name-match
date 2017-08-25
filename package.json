@@ -21,6 +21,7 @@
   "homepage": "https://github.com/regepan/file-name-match#readme",
   "dependencies": {
     "log-symbols": "^2.0.0",
+    "postcss-scss": "^1.0.2",
     "staged-git-files": "0.0.4"
   }
 }
