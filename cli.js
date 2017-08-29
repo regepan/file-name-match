@@ -3,6 +3,7 @@
 
 const sgf = require('staged-git-files')
 const symbols = require("log-symbols")
+const stylelint = require("stylelint")
 
 sgf('ACM', (err, files) => {
     if (err) {
